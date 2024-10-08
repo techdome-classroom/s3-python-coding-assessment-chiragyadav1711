@@ -28,8 +28,7 @@ class Solution(object):
         print(solution.isValid("() [] {}"))
         print(solution.isValid("(]"))
         
-        pass
-
+       
 
 
 
